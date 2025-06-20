@@ -12,3 +12,4 @@ E:\SpeedTest C#\obj\Debug\net9.0\refint\SpeedTestApp.dll
 E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.pdb
 E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.genruntimeconfig.cache
 E:\SpeedTest C#\obj\Debug\net9.0\ref\SpeedTestApp.dll
+E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.sourcelink.json
