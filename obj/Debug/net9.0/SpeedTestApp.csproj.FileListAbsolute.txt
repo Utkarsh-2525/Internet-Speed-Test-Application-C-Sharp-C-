@@ -1,0 +1,14 @@
+E:\SpeedTest C#\bin\Debug\net9.0\SpeedTestApp.exe
+E:\SpeedTest C#\bin\Debug\net9.0\SpeedTestApp.deps.json
+E:\SpeedTest C#\bin\Debug\net9.0\SpeedTestApp.runtimeconfig.json
+E:\SpeedTest C#\bin\Debug\net9.0\SpeedTestApp.dll
+E:\SpeedTest C#\bin\Debug\net9.0\SpeedTestApp.pdb
+E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.AssemblyInfoInputs.cache
+E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.AssemblyInfo.cs
+E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.csproj.CoreCompileInputs.cache
+E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.dll
+E:\SpeedTest C#\obj\Debug\net9.0\refint\SpeedTestApp.dll
+E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.pdb
+E:\SpeedTest C#\obj\Debug\net9.0\SpeedTestApp.genruntimeconfig.cache
+E:\SpeedTest C#\obj\Debug\net9.0\ref\SpeedTestApp.dll
